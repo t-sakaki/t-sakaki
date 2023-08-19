@@ -1,4 +1,17 @@
-### Hi there 👋
+# 榊原平
+
+こんにちは、私は榊原平といいます。プログラマーとして働いています。趣味は読書とゲームです。特にSFやファンタジーの小説が好きです。
+
+## スキル
+
+- Python, C#, Java, HTML, CSS, JavaScript, React, Django, Flask, Git, VSCode などを使えます。
+- AI を使った画像生成に興味があります。
+
+## 経歴
+
+- GitHub で公開しているリポジトリはこちらです。
+- ポートフォリオサイトはこちらです。
+- 最近は AI を使って自分の好きな小説の登場人
 
 <!--
 **t-sakaki/t-sakaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
