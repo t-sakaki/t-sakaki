@@ -11,7 +11,14 @@
 
 - GitHub で公開しているリポジトリはこちらです。
 - ポートフォリオサイトはこちらです。
-- 最近は AI を使って自分の好きな小説の登場人
+- 最近は AI を使って自分の好きな小説の登場人物や風景を描いてみました。以下にいくつかの例を紹介します。
+
+## 連絡先
+
+- メールアドレスは sakakihara.taira@gmail.com です。
+- Twitter は @sakakihara_taira です。
+- お気軽にフォローやメッセージをください。
+
 
 <!--
 **t-sakaki/t-sakaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
