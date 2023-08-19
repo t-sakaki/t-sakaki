@@ -15,8 +15,8 @@
 
 ## 連絡先
 
-- メールアドレスは sakakihara.taira@gmail.com です。
-- Twitter は @sakakihara_taira です。
+- メールアドレスは t-sakaki@poohmie.jp です。
+- Twitter は @tairasakaki_jp です。
 - お気軽にフォローやメッセージをください。
 
 
