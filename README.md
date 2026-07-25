@@ -1,23 +1,23 @@
-# 榊原平
+# 榊原平 (Taira Sakakibara)
 
-こんにちは、私は榊原平といいます。プログラマーとして働いています。趣味は読書と映画鑑賞です。
+プログラマー。Python、TypeScript、C# を中心としたバックエンドからフロントエンドまでのシステム開発、および AI 技術の統合・活用を得意としています。
 
-## スキル
+## 🏆 実績・受賞歴
 
-- Python, C#, Java, HTML, CSS, JavaScript, React, Django, Flask, Git, VSCode などを使えます。
-- AI を使った画像生成に興味があります。
+- **NEAR AI賞 受賞**：ハッカソンにて、NEAR AI を活用した先進的なプロダクトを開発し、受賞を果たしました。
 
-## 経歴
+## 💻 主なスキル
 
-- GitHub で公開しているリポジトリはこちらです。
-- ポートフォリオサイトはこちらです。
-- 最近は AI を使って自分の好きな小説の登場人物や風景を描いてみました。以下にいくつかの例を紹介します。
+- **言語**: Python, TypeScript, C#, Java, JavaScript
+- **フレームワーク**: React, Django, Flask
+- **ツール・環境**: Git, VSCode
 
-## 連絡先
+## 🌐 リンク
 
-- メールアドレスは t-sakaki@poohmie.jp です。
-- X(旧Twitter) は @tairasakaki_jp です。
-- お気軽にフォローやメッセージをください。
+- **GitHub**: [t-sakaki](https://github.com/t-sakaki)
+- **ポートフォリオ**: [ポートフォリオサイト](https://github.com/t-sakaki)
+- **X (旧Twitter)**: [@tairasakaki_jp](https://github.com/t-sakaki)
+- **Email**: t-sakaki@poohmie.jp
 
 
 <!--
