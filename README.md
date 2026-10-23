@@ -43,6 +43,11 @@
 ## 📝 最新のブログ記事
 
 <!-- BLOG-POST-LIST:START -->
+- [サンナ・マリン氏が語る若者の政治参加「行動こそ希望！」院内集会レポート](https://taira-anjo.poohmie.jp/sanna-marin-diet-youth-20261015/)
+- [西尾市で「斎藤吾郎 夏のアトリエ展」を訪ねて](https://taira-anjo.poohmie.jp/gorosaito-summer-atelier-nishio-2026/)
+- [ブラバント・イノベーション・デイ 東京 2026 参加レポート ― 日本とオランダが切り拓くコンピューティングの未来](https://taira-anjo.poohmie.jp/brabant-innovation-day-2026/)
+- [伊勢でのNode-RED×LINE Botハンズオン参加](https://taira-anjo.poohmie.jp/node-red-line-bot-hands-on-in-ise/)
+- [フランスと日本で考える「愛し方」──関西日仏学館での一夜](https://taira-anjo.poohmie.jp/voix-contemporaines-3-2026/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌐 リンク
